@@ -22,7 +22,7 @@ Always learning. Always building. 🚀
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://github.com/FahmidUddinNabil-21" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/Fahmid-run" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/fahmid-uddin-nabil-081530281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
