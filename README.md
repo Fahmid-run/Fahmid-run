@@ -77,9 +77,9 @@ I enjoy creating clean, intuitive user interfaces while also designing secure RE
   <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fahmid-run&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahmid-run&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmid-run&theme=radical&hide_border=true)
 
 
 ---
