@@ -18,9 +18,13 @@ Hi, I'm Fahmid Uddin, a 20-year-old Full Stack Web Developer from Bangladesh who
 
 
 <p>
-My journey began with frontend development, where I built a strong foundation in HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, and DaisyUI. As I grew more interested in how complete applications work, I expanded into backend development using Node.js, Express.js, MongoDB, PostgreSQL, and Prisma ORM, allowing me to build full-stack applications from database design to deployment.
+Hi, I'm  <b>Fahmid Uddin Nabil</b>, a Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy creating clean, intuitive user interfaces while also designing secure REST APIs, managing databases, and writing maintainable, well-structured code. I regularly use Git, GitHub, and Postman throughout my development workflow and continue improving my skills by building practical, real-world projects.
+I work with the **PERN stack (PostgreSQL, Express.js, React.js, and Node.js)**, along with Prisma ORM, to build full-stack web applications with reliable backends and well-structured databases. I enjoy turning ideas into functional web experiences and exploring how different technologies work together to solve real-world problems.
+
+I'm a continuous learner who believes in improving through hands-on projects, experimentation, and consistent practice. Currently, I'm focused on strengthening my **problem-solving skills, data structures and algorithms, and software engineering fundamentals** while expanding my knowledge of full-stack development.
+
+I'm always eager to learn, take on new challenges, and build applications that are useful, maintainable, and impactful.
 </p>
 
 ---
@@ -35,7 +39,7 @@ I enjoy creating clean, intuitive user interfaces while also designing secure RE
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://github.com/Fahmid-run" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/fahmid-uddin-nabil-081530281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="www.linkedin.com/in/fahmiduddinnabil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -82,17 +86,7 @@ I enjoy creating clean, intuitive user interfaces while also designing secure RE
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmid-run&theme=radical&hide_border=true)
 
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahmid-run&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 💡 Quote
 
